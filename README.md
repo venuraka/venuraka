@@ -21,7 +21,7 @@
 <h3>GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/venuraka">
-  <img height="170em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=venuraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=venuraka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br><br>
   <img height="170em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=venuraka&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
