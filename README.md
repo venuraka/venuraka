@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venuraka Ranasinghe</h1>
-<h3 align="center">Computing undergraduate | Programmer | Traveller | Tech enthusiast |</h3>
+<h3 align="center">Hello there! I'm Venuraka, an enthusiastic undergraduate student studying at NSBM Green University in Sri Lanka. Passionate about software development.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=venuraka&label=Profile%20views&color=0e75b6&style=flat" alt="venuraka" /> </p>
 
-- 🌱 I’m currently learning **Software development**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 📫 How to reach me **vethum22@gmail.com**
 
