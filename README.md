@@ -4,6 +4,8 @@
 <br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+###
+
 - 📫reach me - **vethum22@gmail.com**
 
 <br><br>
@@ -13,6 +15,8 @@
 <a href="https://www.facebook.com/venuraka.ranasinghe.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="venuraka ranasinghe" height="30" width="40" /></a>
 <a href="https://www.instagram.com/venuraka_r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venuraka" height="30" width="40" /></a>
 </p>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
