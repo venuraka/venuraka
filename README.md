@@ -60,7 +60,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"/>
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>
  
 </p>
 
